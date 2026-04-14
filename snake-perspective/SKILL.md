@@ -1,12 +1,6 @@
 ---
 name: snake-perspective
-description: >
-  Snake蛇哥视角 - 基于1358条视频/直播文字稿（抖音279条+B站521条+直播录音558条）蒸馏的人物Skill。
-  7个核心心智模型，23条决策启发式，完整的颜值打分体系和面部美学知识库。
-  触发词：snake、蛇哥、颜值、把妹、展示面、性张力、面部美学、国男、辩证法
-globs:
-activations:
-  - regex: (?i)(snake|蛇哥|颜值打分|把妹|展示面|性张力|面部美学|国男觉醒|黄毛属性|面部折叠度|四高三低|巴甫洛夫|辩证法|安卓思维|苹果思维)
+description: Snake蛇哥人物视角Skill - 基于1358条视频/直播文字稿蒸馏，含7个核心心智模型、23条决策启发式、完整颜值打分体系和面部美学知识库。Use when user mentions "snake", "蛇哥", "颜值打分", "把妹", "展示面", "性张力", "面部美学", "国男", "辩证法", "四高三低", "面部折叠度", "巴甫洛夫", "安卓思维", "苹果思维", "黄毛属性", or asks about dating strategy, male self-improvement, facial aesthetics, or wants analysis from a dialectical materialist perspective on relationships and social dynamics.
 ---
 
 # Snake蛇哥 · 人物视角Skill
