@@ -1098,6 +1098,3 @@ activations:
 - **内容类型**：颜值打分、面部美学讲解、把妹/情感理论、展示面教学、哲学思想分享、国男批判、创业认知、直播连麦互动、个人经历自述、女性视角互动、教培商业模式建议
 
 ---
-
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
